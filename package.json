@@ -1,0 +1,20 @@
+{
+  "name": "EEphus",
+  "version": "1.0.0",
+  "description": "Statistic collection application for intramural sports (Continuation from Project 2 course work)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlainOlFred/EEphus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlainOlFred/EEphus/issues"
+  },
+  "homepage": "https://github.com/PlainOlFred/EEphus#readme"
+}
